@@ -6,7 +6,7 @@
 
 ```sql
 SELECT email_address, first_name, last_name
-FROM users
+FROM SQL01
 ```
 
 ### Resources
