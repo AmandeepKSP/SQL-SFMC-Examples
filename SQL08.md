@@ -5,7 +5,7 @@ NextMobile has recently launched three new data plans: "Esssential", "Flex", and
 #### Solution
 ```sql
 SELECT 
-    id,
+    id AS eligible_customer,
     data_plan
 FROM SQL08
 WHERE
